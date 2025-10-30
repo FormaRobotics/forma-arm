@@ -21,5 +21,5 @@ Please fork the repo, create a feature branch, open a pull request.
 ## CAD
 Soon
 
-## Bill of Matrial
+## Bill of Material
 Soon
