@@ -9,6 +9,29 @@ Forma’s robotic arm is built around:
 - **Affordable manufacturing** — designed for easy fabrication using 3D printing
 - **RaaS (Robotics-as-a-Service) ready** — intended for deployment to the Forma decentralized network
 
+## CAD
+The following CAD components are currently available in this repo:
+- ✅ Base link (mounting structure for the first joint)
+- ✅ Servo module components
+
+## Bill of Materials (BoM) 📦
+
+### 🔩 Hardware (Screws)
+| Component               | Standard          | Size    | Quantity |
+|------------------------|------------------|---------|----------|
+| Base assembly screws   | ISO 4762 (Hex Socket Head) | M6 × 25 | 6 pcs |
+| Servo mounting screws  | ISO 4762 (Hex Socket Head) | M4 × 16 | 4 pcs |
+
+---
+
+### ⚙️ Servo Motors
+| Quantity | Model               | Torque Rating | Link |
+|----------|---------------------|---------------|------|
+| 3        | ROBSTRIDE 03        | 60 N·m        | https://aifitlab.com/products/robstride-03-motor |
+| 3        | ROBSTRIDE 02        | 17 N·m        | https://aifitlab.com/products/robstride-02-motor |
+
+More parts (electronics, end-effector BOM) will be added as the arm progresses.
+
 ## Contributing 🤝
 We welcome:
 - Design improvements
@@ -17,9 +40,3 @@ We welcome:
 - New attachments/end-effectors
 
 Please fork the repo, create a feature branch, open a pull request.
-
-## CAD
-Soon
-
-## Bill of Material
-Soon
