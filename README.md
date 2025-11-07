@@ -39,4 +39,4 @@ We welcome:
 - Pull requests
 - New attachments/end-effectors
 
-Please fork the repo, create a feature branch, open a pull request.
+Please fork the repo, create a feature branch and open a pull request.
