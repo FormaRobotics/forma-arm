@@ -12,21 +12,23 @@ Forma’s robotic arm is built around:
 ## CAD
 The following CAD components are currently available in this repo:
 - ✅ Base link (mounting structure for the first joint)
+- ✅ Link1 (first arm segment connected to the base)
 - ✅ Servo module components
 
 ## Bill of Materials (BoM) 📦
 
 ### 🔩 Hardware (Screws)
-| Component               | Standard          | Size    | Quantity |
-|------------------------|------------------|---------|----------|
-| Base assembly screws   | ISO 4762 (Hex Socket Head) | M6 × 25 | 6 pcs |
-| Servo mounting screws  | ISO 4762 (Hex Socket Head) | M4 × 16 | 4 pcs |
+| Component                      | Standard                   | Size (mm)   |Quantity|
+|:--------------------------------:|:----------------------------:|:---------:|:-------:|
+| Base assembly screws           | ISO 4762 (Hex Socket Head) | M6 × 25 | 6 pcs |
+| Servo mounting screws (back)   | ISO 4762 (Hex Socket Head) | M4 × 16 | 4 pcs |
+| Servo mounting screws  (front) | ISO 4762 (Hex Socket Head) | M1.6 × 10 | 4 pcs |
 
 ---
 
 ### ⚙️ Servo Motors
-| Quantity | Model               | Torque Rating | Link |
-|----------|---------------------|---------------|------|
+| Quantity | Model               | Peak Torque   | Link |
+|:----------:|:---------------------:|:---------------|:------:|
 | 3        | ROBSTRIDE 03        | 60 N·m        | https://aifitlab.com/products/robstride-03-motor |
 | 3        | ROBSTRIDE 02        | 17 N·m        | https://aifitlab.com/products/robstride-02-motor |
 
