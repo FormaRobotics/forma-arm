@@ -12,7 +12,7 @@ Forma’s robotic arm is built around:
 ## CAD
 The following CAD components are currently available in this repo:
 - ✅ Base link (mounting structure for the first joint)
-- ✅ Link1 (first arm segment connected to the base)
+- ✅ Link1 (first arm segment connected to the base + lid)
 - ✅ Servo module components
 
 ## Bill of Materials (BoM) 📦
