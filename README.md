@@ -13,6 +13,7 @@ Forma’s robotic arm is built around:
 The following CAD components are currently available in this repo:
 - ✅ Base link (mounting structure for the first joint)
 - ✅ Link1 (first arm segment connected to the base + lid)
+- ✅ Link2 (second arm segment connected to the Link1)
 - ✅ Servo module components
 
 ## Bill of Materials (BoM) 📦
@@ -21,8 +22,8 @@ The following CAD components are currently available in this repo:
 | Component                      | Standard                   | Size (mm)   |Quantity|
 |:--------------------------------:|:----------------------------:|:---------:|:-------:|
 | Base assembly screws           | ISO 4762 (Hex Socket Head) | M6 × 25 | 6 pcs |
-| Servo mounting screws (back)   | ISO 4762 (Hex Socket Head) | M4 × 16 | 4 pcs |
-| Servo mounting screws  (front) | ISO 4762 (Hex Socket Head) | M1.6 × 10 | 4 pcs |
+| Servo mounting screws (RS03 - back)   | ISO 4762 (Hex Socket Head) | M4 × 16 | 8 pcs |
+| Servo mounting screws (RS03 - front) | ISO 4762 (Hex Socket Head) | M1.6 × 10 | 12 pcs |
 
 ---
 
