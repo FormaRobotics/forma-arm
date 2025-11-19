@@ -23,7 +23,7 @@ The following CAD components are currently available in this repo:
 |:--------------------------------:|:----------------------------:|:---------:|:-------:|
 | Base assembly screws           | ISO 4762 (Hex Socket Head) | M6 × 25 | 6 pcs |
 | Servo mounting screws (RS03 - back)   | ISO 4762 (Hex Socket Head) | M4 × 16 | 8 pcs |
-| Servo mounting screws (RS03 - front) | ISO 4762 (Hex Socket Head) | M1.6 × 10 | 12 pcs |
+| Servo mounting screws (RS03 - front) | ISO 4762 (Hex Socket Head) | M4 × 10 | 12 pcs |
 
 ---
 
