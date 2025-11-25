@@ -9,6 +9,10 @@ Forma’s robotic arm is built around:
 - **Affordable manufacturing** — designed for easy fabrication using 3D printing
 - **RaaS (Robotics-as-a-Service) ready** — intended for deployment to the Forma decentralized network
 
+## Electronics
+### Circuit Diagram
+![circuit diagram](electronics/circuit-diagram.jpg)
+
 ## CAD
 The following CAD components are currently available in this repo:
 - ✅ Base link (mounting structure for the first joint)
