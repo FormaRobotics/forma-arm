@@ -1,3 +1,5 @@
+![Forma arm](current-progress.jpg)
+
 # Forma Arm
 Welcome to the official repository for **Forma Robotics' open-source robotic arm**.  
 This project aims to make robotics accessible to anyone — builders, researchers, students, and hobbyists.  
